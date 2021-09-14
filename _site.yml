@@ -1,0 +1,19 @@
+name: "ARS_Course" # ARS_Course
+title: "ARS"
+theme: theme.css
+description: |
+  cosa3
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Inicio"
+      href: index.html
+    - text: "Equipo"
+      href: about.html
+    - text: "Primera parte"
+      href: pte_1.html
+    - text: "Segunda parte"
+      href: pte_2.html
+    - text: "Talleres"
+      href: pte_3.html
+output: distill::distill_article

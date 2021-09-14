@@ -1,0 +1,10 @@
+---
+title: "Sobre Nosotros"
+description: |
+  Acá podemos hablar de nosotros
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
