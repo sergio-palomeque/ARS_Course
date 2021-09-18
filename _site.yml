@@ -8,8 +8,8 @@ navbar:
   right:
     - text: "Inicio"
       href: index.html
-    - text: "Equipo"
-      href: about.html
+    #- text: "Equipo"
+    #  href: about.html
     - text: "Primera parte"
       href: pte_1.html
     - text: "Segunda parte"

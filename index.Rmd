@@ -1,7 +1,7 @@
 ---
-title: "Curso de Análisis de Redes Sociales"
+title: "Análisis de Redes Sociales"
 description: |
-  Acá hay que poner lo que queramos que aparezca como mensaje de bienvenida.
+  Pablo Galaso y Sergio Palomeque les dan la bienvenida.
 site: distill::distill_website
 ---
 
